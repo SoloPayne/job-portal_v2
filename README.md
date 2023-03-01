@@ -60,11 +60,11 @@ Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will 
 
 ## Merging Changes into Dev
   Once your changes have been reviewed and validated on the staging server, they can be merged back into the dev branch.
-  1.Ensure that your branch is up-to-date with the latest changes in the staging branch.
-    * checkout dev branch
-    * Pull the dev branch to update your local repository
-    * Merge dev into your branch
-    * Then send a pull request back into the dev branch
+  1.  Ensure that your branch is up-to-date with the latest changes in the staging branch.
+      2.  checkout dev branch
+      3.  Pull the dev branch to update your local repository
+      4.  Merge dev into your branch
+      5.  Then send a pull request back into the dev branch
 
 ## Further help
 
