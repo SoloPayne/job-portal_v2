@@ -54,17 +54,17 @@ Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will 
 
 ## Validating Changes
   Before submitting a pull request, it is crucial to validate your changes locally and on staging.
-    •	After making your changes on your branch, merge that branch into staging to validate it on the staging server.
-    •	Watch the pipeline from bitbucket for deployment progress
-    •	Once deployment is complete, validate the changes by visiting the URL of the application.
+  1. After making your changes on your branch, merge that branch into staging to validate it on the staging server.
+  2. Watch the pipeline from bitbucket for deployment progress
+  3. Once deployment is complete, validate the changes by visiting the URL of the application.
 
 ## Merging Changes into Dev
   Once your changes have been reviewed and validated on the staging server, they can be merged back into the dev branch.
   1.Ensure that your branch is up-to-date with the latest changes in the staging branch.
-    •	checkout dev branch
-    •	Pull the dev branch to update your local repository
-    •	Merge dev into your branch
-    •	Then send a pull request back into the dev branch
+    * checkout dev branch
+    * Pull the dev branch to update your local repository
+    * Merge dev into your branch
+    * Then send a pull request back into the dev branch
 
 ## Further help
 
